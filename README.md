@@ -1,4 +1,4 @@
 # msmttchr.github.io
-Michele Sardo personal homepage with links to my various projects.
+Michele Sardo personal homepage with links to various interesting pages.
 
 http://msmttchr.github.io/
