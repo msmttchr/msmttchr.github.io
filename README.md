@@ -12,9 +12,9 @@ http://msmttchr.github.io/
 - http://whiteboard.ping.se/SDR/IQ
 - https://www.everythingrf.com/community/what-is-3-db-bandwidth-in-a-filter
 - https://youtu.be/wJcSGicDjLw
+- https://youtu.be/yCLb2eItDyE
 
 <h2>{{ "Python" }}</h2>
-- https://youtu.be/yCLb2eItDyE
 - https://twitter.com/camilaleniss/status/1370883721319026690?s=08
 - https://hynek.me/articles/python-subclassing-redux/
 - https://python-patterns.guide/gang-of-four/composition-over-inheritance/
