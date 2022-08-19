@@ -13,6 +13,7 @@ http://msmttchr.github.io/
 - https://www.everythingrf.com/community/what-is-3-db-bandwidth-in-a-filter
 - https://youtu.be/wJcSGicDjLw
 - https://youtu.be/yCLb2eItDyE
+- https://www.atlantarf.com/FSK_Modulation.php
 
 <h2>{{ "Python" }}</h2>
 - https://twitter.com/camilaleniss/status/1370883721319026690?s=08
