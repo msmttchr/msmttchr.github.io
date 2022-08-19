@@ -1,7 +1,5 @@
 # msmttchr.github.io
-Michele Sardo personal homepage with links to various interesting pages.
-
-http://msmttchr.github.io/
+[Michele Sardo personal homepage](http://msmttchr.github.io/) with links to various interesting pages.
 
 <h2>{{ "RF" }}</h2>
 - [DSP basics](https://jackschaedler.github.io/circles-sines-signals/)
