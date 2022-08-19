@@ -4,7 +4,7 @@ Michele Sardo personal homepage with links to various interesting pages.
 http://msmttchr.github.io/
 
 <h2>{{ "RF" }}</h2>
-- http://jackschaedler.github.io/
+- [http://jackschaedler.github.io/](http://jackschaedler.github.io/)
 - https://www.edaboard.com/threads/system-noise-figure-with-iq-demodulator.24933/
 - https://github.com/Jeija/librenard
 - https://www.sp4comm.org/webversion.html
