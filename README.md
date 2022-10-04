@@ -20,3 +20,6 @@
 - [python testing](https://docs.pytest.org/)
 - [Automation](https://twitter.com/camilaleniss/status/1370883721319026690?s=08)
 
+<h2>{{ "GIT" }}</h2>
+- [Learning GIT](https://learngitbranching.js.org/)
+
